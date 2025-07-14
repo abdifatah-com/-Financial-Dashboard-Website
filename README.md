@@ -6,7 +6,7 @@ Built with a focus on UI/UX and performance, this project showcases my frontend 
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Demo 
 
 <img width="2701" height="1393" alt="Screenshot 2025-07-11 214139" src="https://github.com/user-attachments/assets/51d7fdc3-d1b7-48da-9609-572936b023b7" />
 
